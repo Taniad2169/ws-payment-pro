@@ -1,0 +1,8 @@
+{
+  "name": "ws-payment-pro",
+  "version": "1.0.0",
+  "description": "WS Payment Pro — by The WebSwan",
+  "dependencies": {
+    "stripe": "^14.0.0"
+  }
+}
